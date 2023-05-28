@@ -1,9 +1,8 @@
- ![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f72
-6f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+ ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Vedanti Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width="400" width src ="https://static.wixstatic.com/media/4b3fc8_164e371570764727b48f76ca68580420~mv2.gif">
+<img align="right" width="400"src ="https://static.wixstatic.com/media/4b3fc8_164e371570764727b48f76ca68580420~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantisharma&label=Profile%20views&color=0e75b6&style=flat" alt="vedantisharma" /> </p>
 
